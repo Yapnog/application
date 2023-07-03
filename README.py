@@ -27,5 +27,4 @@
 # Knowledge of cloud platforms and services, such as AWS or Azure.
 # Proficiency in version control systems like Git.
 # Join our team and play a key role in seamlessly integrating Python-managed data into Zoho Creator applications. We offer a competitive salary, comprehensive benefits package, and a stimulating work environment. If you are passionate about Python data management and have expertise in Zoho Creator integration, apply now!
-
-## To proceed with your application, create a branch of this repository and uncomment any lines you feel comfortable doing on a daily basis.
+# To be considered for this position create a branch of this repository and uncomment any lines you feel comfortable doing on a daily basis then send us your repository link.
