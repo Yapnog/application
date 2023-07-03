@@ -2,7 +2,13 @@
 ## We are seeking a highly skilled and motivated Python Data Expert with a strong focus on Zoho Creator integration to join our dynamic team at BRJ Enterprises. 
 ## As a Python Data Expert, you will play a crucial role in seamlessly integrating Python-managed data into Zoho Creator applications. 
 ## If you have a deep understanding of Python data management and possess expertise in Zoho Creator integration, we want to hear from you!
-## => To be considered for this position create a branch of this repository and uncomment any lines you feel comfortable doing on a daily basis then send us your repository link.
+## => To be considered for this position clone this repository and uncomment any lines you feel comfortable doing on a daily basis then send us your public repository link.
+
+## Step 1: 
+# Review the Job Description in the Docs Folder 
+
+
+
 
 
 ## Responsibilities:
@@ -30,5 +36,3 @@
 # Familiarity with other CRM systems such as Salesforce or HubSpot.
 # Knowledge of cloud platforms and services, such as AWS or Azure.
 # Proficiency in version control systems like Git.
-# Join our team and play a key role in seamlessly integrating Python-managed data into Zoho Creator applications. We offer a competitive salary, comprehensive benefits package, and a stimulating work environment. If you are passionate about Python data management and have expertise in Zoho Creator integration, apply now!
-
